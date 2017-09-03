@@ -1,1 +1,1 @@
-include ':app', ':lib', ':testjunit1'
+include ':app'

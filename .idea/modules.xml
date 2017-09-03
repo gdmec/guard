@@ -4,8 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/guard.iml" filepath="$PROJECT_DIR$/guard.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lib/lib.iml" filepath="$PROJECT_DIR$/lib/lib.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testjunit1/testjunit1.iml" filepath="$PROJECT_DIR$/testjunit1/testjunit1.iml" />
     </modules>
   </component>
 </project>
